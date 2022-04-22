@@ -128,6 +128,15 @@ header .container {
   transition: 0.3s;
 }
 
+
+
+.rounded-start {
+  width: 380px;
+  height: 460px;
+  border: 4px solid #c1c1c1;
+  border-radius: 10px;
+}
+
 .btn:hover {
   background-color: var(--hoverColor);
   transform: scale(1) !important;
